@@ -52,4 +52,4 @@
 ## Deployments
 
 - Backend: [https://sparkup.azurewebsites.net/](https://sparkup.azurewebsites.net/)
-- React App: [https://sparkup-react.vercel.app/](https://sparkup-angular.vercel.app/)
+- React App: [https://sparkup-react.vercel.app/](https://sparkup-react.vercel.app/)
